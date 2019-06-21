@@ -3,15 +3,22 @@
 
 O intuito do fórum é servir de espaço para a comunidade dos [meus cursos da Udemy](https://www.udemy.com/user/gabrielbarreto2/) postarem suas duvidas em relação ao conteúdo do curso e afins. É totalmente inspirada na comunidade do [Front-end Brasil](https://github.com/frontendbr).
 A comunidade não é limitada apenas aos alunos, qualquer pessoa com uma duvida referente aos conteúdos abordados e listados abaixo poderão criar questões e tirar suas dúvidas.
+
 Muitas pessoas ao concluir os cursos ou mesmo ao começarem dizem querer ajudar mais a comunidade e não sabem como. Responder questões, interagir, conversar com outros desenvolvedores é uma ótima forma de se fazer isso.
+
+A ideia não é me ausentar da responsabilidade de um professor, longe disso, quero apenas concentrar as dúvidas aqui por ter problemas em encontrar as perguntas, mensagens, enviar recursos e etc.
+
 ### Quais tópicos podem ser abordados?
 Na verdade qualquer assunto referente ao desenvolvimento de aplicações Web e Mobile, além de assuntos sobre carreiras, soft-skills, hard-skills, outras tecnologias, frameworks, escolha de stack para trabalhar, duvidas comportamentais e qualquer assunto que possa agregar valor a quem lê.
 As tecnologias utilizadas nos cursos são:
  - Ionic 3 e 4
  - Firebase Firestore, Realtime Database, Storage, Authentication, Cloud Functions e Hosting
  - JavaScript
+ - Stencil
  - TypeScript
  - Angular 2+
+ - Cordova
+ - Capacitor
 
 Isso não significa que outras tecnologias não possam ser abordadas, mas lembre-se de tentar se manter no escopo dos assuntos listados aqui.
 
